@@ -1,5 +1,4 @@
 include package/src/weights/detection.pt
-include package/src/assets/clearspot_dark.png
-include package/src/assets/clearspot_light.png
+include package/src/assets/yolov8.jpeg
 include package/src/assets/icon.ico
 
